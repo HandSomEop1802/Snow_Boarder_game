@@ -2,6 +2,8 @@
 
 Welcome to the Snowboarder Game repository! This Unity-based game is designed to be a smooth and relaxing snowboarding experience. Your player character will perform flips and tricks while navigating through levels filled with jumps and particle effects. 
 
+
+https://github.com/HandSomEop1802/Snow_Boarder_game/assets/124366084/cc9acf01-1e40-4882-9bc9-5b76c3694855
 ## Gameplay Overview
 
 - **Player Character**: The main character performs backflips and frontflips while snowboarding.
